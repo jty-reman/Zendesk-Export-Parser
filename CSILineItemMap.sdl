@@ -1,0 +1,18 @@
+#Mapping values
+#Mon Jan 08 12:52:24 CST 2018
+AMOUNT=Labor_Amount__c
+ACT\ TYPE=Line_Item_Type__c
+ORIG\ CUST\#=Customer_Number__c
+DOC\ \#=Document_Number__c
+CSIREP=CSI_Rep__c
+SER\ \#\ RET=Return_Serial_Number__c
+CSI=CSI_Number__c
+PROBLEM=Problem_Description__c
+MEMO=Memo__c
+P/N\ RET=Return_Part_Number__c
+ACT\ DATE=Activity_Date__c
+P/N\ SENT=Sent_Part_Number__c
+ORIG\ P/N=Original_Part_Number__c
+LINE=Line_Number__c
+SER\ \#\ SENT=Sent_Serial_Number__c
+CLASS=Class__c
